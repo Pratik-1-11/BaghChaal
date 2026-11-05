@@ -1,0 +1,6 @@
+{
+  "name": "Bagh Chal - Nepali Tiger & Goat Game",
+  "description": "Traditional Nepali strategic board game of Tigers and Goats (बाघचाल) with intelligent AI, pass-and-play, authentic cultural aesthetics, and offline PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
